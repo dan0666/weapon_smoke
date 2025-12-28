@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "date": "2025-12-23",
+  "date": "2025-12-28",
   "priority": "Normal",
-  "changelog": "- Added an option for natural movement and particle sticking to the weapon. You can check this in the K Logic menu."
+  "changelog": "-Added new option for each weapon turn on or off jamming. (check K logic) \n -Added new option set jamming duration for each weapon. (check K logic) \n -Added Particle browser, now you can easily and fast check all particles."
 }
